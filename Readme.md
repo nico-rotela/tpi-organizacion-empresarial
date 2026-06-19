@@ -44,7 +44,7 @@ python chatbot.py
 
 ### Autor
 
-Nicolas Rotela
+Nicolas Rotela y
 Lucas Russo
 
 ### Materia
