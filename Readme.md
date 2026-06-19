@@ -44,8 +44,13 @@ python chatbot.py
 
 ### Autor
 
-Nicolás Rotela
+Nicolas Rotela
+Lucas Russo
 
 ### Materia
 
 Organización Empresarial - UTN TUPaD
+
+### GitHub
+
+-- https://github.com/nico-rotela/tpi-organizacion-empresarial
